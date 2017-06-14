@@ -1,0 +1,9 @@
+USE  `arkHive_db`;
+
+INSERT INTO `customer_notes` (`note`,`customer_id`)
+VALUES ('Ann Green-new to GFI team-contacted April 19', 1),
+  ('Bahhstahn CS - visited by Jessica November 2016. Large selection and big interest in Green Hill.  Need to connect with distributors in the area', 2),
+  ('Garys rumored to be purchasing Harpers. Stop by at Fancy Food Show.', 3),
+  ('Bob Gregor-moved to Harpers team from Whole Foods NW. Met at Ohio show, July 2016', 5),
+  ('Joe Bloggs - likes to drink A LOT of wine. When meeting in NY, have back up plan to get out of over-drinking', 6),
+  ('Tony is a jerk! Charge him high margin for having to deal with his issues', 8);
